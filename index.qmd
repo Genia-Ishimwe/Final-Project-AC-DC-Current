@@ -1,0 +1,36 @@
+---
+title: "Math with circuits"
+format: 
+    html:
+        code-fold: true
+    typst: default
+jupyter: python3
+editor:
+    render-on-save: true
+---
+
+
+# 1. Abstract and Description
+
+## Abstract
+
+
+## Description
+
+
+# 2. Schematic and Background
+
+
+
+# 3. Function/Data Collection
+
+
+# 4. Results
+
+
+## Statistics Exercises
+
+
+
+# 5. Conclusion
+
